@@ -262,7 +262,7 @@ hide methods
 hide stereotypes
 
 !ifdef WATERMARK
-right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark60.png>
+right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
 !endif
 
 @enduml
