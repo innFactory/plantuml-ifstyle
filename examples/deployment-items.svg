@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="523px" preserveAspectRatio="none" style="width:500px;height:523px;background:#222222;" version="1.1" viewBox="0 0 500 523" width="500px" zoomAndPan="magnify"><defs><filter height="300%" id="f12h677b8pguqz" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity actor--><ellipse cx="42" cy="18" fill="#333333" filter="url(#f12h677b8pguqz)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><path d="M42,26 L42,53 M29,34 L55,34 M42,53 L29,68 M42,53 L55,68 " fill="none" filter="url(#f12h677b8pguqz)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="26" x="29" y="85.2051">actor</text><!--entity agent--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="48" x="92" y="31.5"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="28" x="102" y="51.7051">agent</text><!--entity artifact--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="35.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="67" x="175.5" y="30"/><polygon fill="#282A2B" points="225.5,35,225.5,49,237.5,49,237.5,41,231.5,35,225.5,35" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="231.5" x2="231.5" y1="35" y2="41"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="237.5" x2="231.5" y1="41" y2="41"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="37" x="185.5" y="53.2051">artifact</text><!--entity boundary--><path d="M281.5,29.5 L281.5,53.5 M281.5,41.5 L298.5,41.5 " fill="none" filter="url(#f12h677b8pguqz)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><ellipse cx="310.5" cy="41.5" fill="#333333" filter="url(#f12h677b8pguqz)" rx="12" ry="12" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="279.5" y="67.7051">boundary</text><!--entity card--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="18.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="42" x="362" y="38.5"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="22" x="372" y="51.7051">card</text><!--entity cloud--><path d="M21.7551,158.6557 C25.8872,146.0117 35.0882,144.4514 43.7883,154.1512 C51.8848,145.2705 58.9113,146.9187 63.7898,157.4644 C72.9305,158.0803 75.6394,162.8368 71.2359,170.9379 C76.6256,178.4481 72.5504,184.9314 63.8927,185.2182 C59.7748,196.9386 53.3738,198.719 44.195,190.1255 C34.1233,197.114 26.8384,196.4552 22.0934,184.0538 C14.3288,183.0229 12.4772,177.1966 16.382,171.0431 C12.4604,165.586 15.1139,159.5311 21.7551,158.6557 " fill="#282A2B" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="27" x="28.5" y="174.2051">cloud</text><!--entity component--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="76" x="106" y="154"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="101" y="159"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="101" y="176.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="116" y="174.2051">component</text><!--entity control--><ellipse cx="235" cy="164" fill="#333333" filter="url(#f12h677b8pguqz)" rx="12" ry="12" style="stroke: #AAAAAA; stroke-width: 2.0;"/><polygon fill="#AAAAAA" points="231,152,237,147,235,152,237,157,231,152" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="35" x="217.5" y="190.2051">control</text><!--entity database--><path d="M288,159.5 C288,149.5 321,149.5 321,149.5 C321,149.5 354,149.5 354,159.5 L354,181.3906 C354,191.3906 321,191.3906 321,191.3906 C321,191.3906 288,191.3906 288,181.3906 L288,159.5 " fill="#282A2B" filter="url(#f12h677b8pguqz)" style="stroke: #4B4C4D; stroke-width: 1.5;"/><path d="M288,159.5 C288,169.5 321,169.5 321,169.5 C321,169.5 354,169.5 354,159.5 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="46" x="298" y="183.7051">database</text><!--entity entity--><ellipse cx="405" cy="164" fill="#333333" filter="url(#f12h677b8pguqz)" rx="12" ry="12" style="stroke: #AAAAAA; stroke-width: 2.0;"/><line style="stroke: #AAAAAA; stroke-width: 2.0;" x1="393" x2="417" y1="178" y2="178"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="28" x="391" y="190.2051">entity</text><!--entity file--><polygon fill="#282A2B" filter="url(#f12h677b8pguqz)" points="24,261.5,24,294.3906,60,294.3906,60,271.5,50,261.5,24,261.5" style="stroke: #4B4C4D; stroke-width: 1.5;"/><path d="M50,261.5 L50,271.5 L60,271.5 " fill="#282A2B" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="16" x="34" y="281.7051">file</text><!--entity folder--><polygon fill="#282A2B" filter="url(#f12h677b8pguqz)" points="95.5,253.5,141.5,253.5,148.5,274.5,154.5,274.5,154.5,302.2813,95.5,302.2813,95.5,253.5" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="95.5" x2="148.5" y1="274.5" y2="274.5"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="29" x="105.5" y="291.7051">folder</text><!--entity frame--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="42.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="70" x="190" y="256.5"/><path d="M213.3333,257.5 L213.3333,261.5 L206.3333,268.5 L190,268.5 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="30" x="205" y="286.7051">frame</text><!--entity interface--><ellipse cx="325" cy="278" fill="#333333" filter="url(#f12h677b8pguqz)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="302.5" y="305.2051">interface</text><!--entity node--><polygon fill="#282A2B" filter="url(#f12h677b8pguqz)" points="390,266.5,400,256.5,454,256.5,454,289.3906,444,299.3906,390,299.3906,390,266.5" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="444" x2="453" y1="266.5" y2="257.5"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="390" x2="444" y1="266.5" y2="266.5"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="444" x2="444" y1="266.5" y2="299.3906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="24" x="405" y="286.7051">node</text><!--entity package--><polygon fill="#282A2B" filter="url(#f12h677b8pguqz)" points="6,363,54,363,61,381.8906,78,381.8906,78,398.8906,6,398.8906,6,363" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="6" x2="61" y1="381.8906" y2="381.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="10" y="376.2051">package</text><!--entity queue--><path d="M118,369.5 L158,369.5 C163,369.5 163,380.9453 163,380.9453 C163,380.9453 163,392.3906 158,392.3906 L118,392.3906 C113,392.3906 113,380.9453 113,380.9453 C113,380.9453 113,369.5 118,369.5 " fill="#282A2B" filter="url(#f12h677b8pguqz)" style="stroke: #4B4C4D; stroke-width: 1.5;"/><path d="M158,369.5 C153,369.5 153,380.9453 153,380.9453 C153,392.3906 158,392.3906 158,392.3906 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="30" x="118" y="384.7051">queue</text><!--entity stack--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="32.8906" style="stroke: none; stroke-width: 1.5;" width="48" x="213" y="364.5"/><path d="M198,364.5 L213,364.5 L213,397.3906 L261,397.3906 L261,364.5 L276,364.5 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="28" x="223" y="384.7051">stack</text><!--entity rectangle--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="67" x="311.5" y="364.5"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="321.5" y="384.7051">rectangle</text><!--entity storage--><rect fill="#282A2B" filter="url(#f12h677b8pguqz)" height="32.8906" rx="35" ry="35" style="stroke: #4B4C4D; stroke-width: 1.5;" width="58" x="414" y="364.5"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="38" x="424" y="384.7051">storage</text><ellipse cx="42.1985" cy="471.115" fill="#282A2B" filter="url(#f12h677b8pguqz)" rx="32.6985" ry="12.115" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="42" x="21.1985" y="474.0604">usecase</text><!--link actor to agent--><!--link agent to artifact--><!--link artifact to boundary--><!--link boundary to card--><!--link actor to cloud--><!--link cloud to component--><!--link component to control--><!--link control to database--><!--link database to entity--><!--link cloud to file--><!--link file to folder--><!--link folder to frame--><!--link frame to interface--><!--link interface to node--><!--link file to package--><!--link package to queue--><!--link queue to stack--><!--link stack to rectangle--><!--link rectangle to storage--><!--link package to usecase--><image height="20" width="80" x="410" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAUCAYAAAAa2LrXAAADRklEQVR4Xu2XvW4TQRCA8wh5A86ufCAhvwBSaoSEJToKdEUQUirn4hIkiwpRRdQUFk/gmuoewU+Af5IHyBuE/fZmLuO5H+FIEBR7pJFvd3bndr+dmT0fHR3k4WQ8Hh9PJpOTPM+LoFloJ37MQTrk4uJiFsDdGl35MQdpEaINYEFvJAoXQOTZj91bWSaD5KqfXm6SQbbppbe0w+8MWwA4BB7gSGUTjZO9T2UBVayTdAy4Bp0FnQdYKNAAGX/Pz88vme997o0sk+GxAPTQavrj9ZuXn99/OBN40wDv47e3775gu+qlK+97Vwk+s7y8oCol8v24/0okumqwWjWkN/NIYzZ4nTwbhv6boHPnemfhUPKyzvIb9T7lgcz4J7U5Rl6SjmqQulQASg3MiOCrZHACyNLndjuWhfAOfSc2VJ+xM4e2QCt0rBW5uABai8iwlhFrAbaMI0PGdqxcglufXvpZprbw/NyDx0frIe4ML+pg8ensjDRe4AMIYitsm5RGq3kC3vgq7DO2NoACJF5gPOsmBRwRqxrny/gF9VkyRWt3tHH4zDew4/zQf0pbwcvcG95ztxonmzL9apAEhLcVX7PTFzjVl7QBRN2lFO2mPec92sYmAOx3Zuy3UQEYxukzkNSmwjydg13Wm9BWaLRttJq5lc+8rMkrtdWk3ISH1wyQzxugsRjdANIOcBAjdN1/OrV29Uf5kPrpAS7YmKrtl83GC0zWEkEwxgr9Zm4RdKs+AwU4FqaxjbHLc9F0QJVQe2wUNGlMxQDFwCusDw+sHeg2QJ3fADCOU5ENAY36RUrFCPxTgBKBcW3GHtNSAVqbvIM0H7X5r0Q+X3yaltpPr82FgTPgxVpkfdiUJUo9MN++J8AVG9NNMU5swJyzSYCaqKuAK2hta0ozrgkgIhdkLVga5VcvfRI2sDTwftpPFff/t6DPzvdR7IH59q4AJSJW8v55bmqgwKEvHmzQjH586HqlHQ9B+/RSaANoamPmbZUQfRR5qVHf1/3BK7WxMD0pcYSy8K1UsKKfLX9LulKpyeYPuq2vSQDH3n1/p8hpcnIWmp76yo9/jCLRTrTCYOrtncJkQtfUDNIpnkLTCT9G0SDqvHkPcpAHld+wG+9DK5VvgAAAAABJRU5ErkJggg==" y="493"/><!--
+@startuml
+
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam package {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam agent {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam artifact {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam card {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam file {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam folder {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam frame {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam stack {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam title {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  fontSize 18
+}
+
+
+
+hide methods
+hide stereotypes
+
+right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
+
+<style>
+mindmapDiagram {
+  node {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+  rootNode {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+  leafNode {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+}
+</style>
+
+
+actor actor
+agent agent
+artifact artifact
+boundary boundary
+card card
+cloud cloud
+component component
+control control
+database database
+entity entity
+file file
+folder folder
+frame frame
+interface  interface
+node node
+package package
+queue queue
+stack stack
+rectangle rectangle
+storage storage
+usecase usecase
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

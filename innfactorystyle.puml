@@ -237,6 +237,48 @@ skinparam storage {
   font_style()
 }
 
+skinparam agent {
+  basic_style()
+  font_style()
+}
+
+skinparam artifact {
+  basic_style()
+  font_style()
+}
+
+skinparam card {
+  basic_style()
+  font_style()
+}
+
+skinparam file {
+  basic_style()
+  font_style()
+}
+
+skinparam folder {
+  basic_style()
+  font_style()
+}
+
+skinparam frame {
+  basic_style()
+  font_style()
+}
+
+skinparam stack {
+  basic_style()
+  font_style()
+}
+
+skinparam title {
+  basic_style()
+  font_style()
+  fontSize 18
+}
+
+
 ' Define more elements
 !define Table(name,desc) entity name as "desc" << (T,ACCENT) >>
 !define primary_key(x) <&key><b>x</b>
@@ -279,5 +321,22 @@ hide stereotypes
 !ifdef WATERMARK
 right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
 !endif
+
+<style>
+mindmapDiagram {
+  node {
+	  basic_style()
+    font_style()
+  }
+  rootNode {
+	  basic_style()
+    font_style()
+  }
+  leafNode {
+	  basic_style()
+    font_style()
+  }
+}
+</style>
 
 @enduml

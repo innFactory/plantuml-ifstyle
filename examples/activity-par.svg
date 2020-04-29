@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1170px" preserveAspectRatio="none" style="width:439px;height:1170px;background:#222222;" version="1.1" viewBox="0 0 439 1170" width="439px" zoomAndPan="magnify"><defs><filter height="300%" id="fjssxyi5ig4on" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#282A2B" height="31.0938" style="stroke: #4B4C4D; stroke-width: 1.5;" width="154" x="137" y="2"/><text fill="#FFFFFF" font-family="Roboto" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="138" x="145" y="23.6992">Servlet Container</text><ellipse cx="157.5" cy="54.0938" fill="#000000" filter="url(#fjssxyi5ig4on)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="165" x="75" y="105.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="145" x="85" y="125.2988">ClickServlet.handleRequest()</text><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="68" x="123.5" y="179.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="48" x="133.5" y="199.2988">new Page</text><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="157.5,257.5938,169.5,269.5938,157.5,281.5938,145.5,269.5938,157.5,257.5938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="84" x="214.5" y="253.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="64" x="224.5" y="273.2988">Page.onInit()</text><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="260.5,331.5938,272.5,343.5938,260.5,355.5938,248.5,343.5938,260.5,331.5938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="105" x="306" y="327.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="85" x="316" y="347.2988">Process controls</text><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="358.5,401.0938,370.5,413.0938,358.5,425.0938,346.5,413.0938,358.5,401.0938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#000000" filter="url(#fjssxyi5ig4on)" height="8" style="stroke: none; stroke-width: 1.0;" width="80" x="269.5" y="479.0938"/><rect fill="#000000" filter="url(#fjssxyi5ig4on)" height="8" style="stroke: none; stroke-width: 1.0;" width="80" x="220.5" y="767.0938"/><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="309.5,541.0938,321.5,553.0938,309.5,565.0938,297.5,553.0938,309.5,541.0938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="91" x="163" y="619.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="71" x="173" y="639.2988">Page.onPost()</text><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="103" x="209" y="693.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83" x="219" y="713.2988">Page.onRender()</text><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="85" x="274" y="619.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="65" x="284" y="639.2988">Page.onGet()</text><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="260.5,816.0938,272.5,828.0938,260.5,840.0938,248.5,828.0938,260.5,816.0938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="100" x="278.5" y="860.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="80" x="288.5" y="880.2988">redirect request</text><rect fill="#000000" filter="url(#fjssxyi5ig4on)" height="8" style="stroke: none; stroke-width: 1.0;" width="80" x="228.5" y="987.0938"/><polygon fill="#282A2B" filter="url(#fjssxyi5ig4on)" points="157.5,917.5938,169.5,929.5938,157.5,941.5938,145.5,929.5938,157.5,917.5938" style="stroke: #4B4C4D; stroke-width: 1.5;"/><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="101" x="6" y="913.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="81" x="16" y="933.2988">Forward request</text><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="130" x="203.5" y="913.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="110" x="213.5" y="933.2988">Render page template</text><rect fill="#282A2B" filter="url(#fjssxyi5ig4on)" height="32.8906" rx="12.5" ry="12.5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="106" x="215.5" y="1036.0938"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="86" x="225.5" y="1056.2988">Page.onDestroy()</text><ellipse cx="268.5" cy="1120.0938" fill="none" filter="url(#fjssxyi5ig4on)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.0;"/><ellipse cx="269" cy="1120.5938" fill="#000000" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/><!--link start to ClickServlet.handleRequest()--><path d="M157.5,64.2037 C157.5,73.3438 157.5,87.7538 157.5,99.7238 " fill="none" id="start-&gt;ClickServlet.handleRequest()" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="157.5,105.0238,161.5,96.0238,157.5,100.0238,153.5,96.0238,157.5,105.0238" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link ClickServlet.handleRequest() to new Page--><path d="M157.5,138.2138 C157.5,148.6938 157.5,162.5938 157.5,173.9738 " fill="none" id="ClickServlet.handleRequest()-&gt;new Page" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="157.5,179.0037,161.5,170.0037,157.5,174.0037,153.5,170.0037,157.5,179.0037" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link new Page to #7--><path d="M157.5,212.2138 C157.5,223.9838 157.5,240.0738 157.5,252.0538 " fill="none" id="new Page-&gt;#7" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="157.5,257.2438,161.5,248.2437,157.5,252.2437,153.5,248.2437,157.5,257.2438" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="25.55" y="249.0703">Page.onSecurityCheck</text><!--link #7 to Page.onInit()--><path d="M169.64,269.5938 C179.57,269.5938 194.3,269.5938 208.82,269.5938 " fill="none" id="#7-&gt;Page.onInit()" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="214.16,269.5938,205.16,265.5938,209.16,269.5938,205.16,273.5938,214.16,269.5938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="20" x="182" y="263.7988">true</text><!--link Page.onInit() to #12--><path d="M257.37,286.2138 C258.04,298.2637 258.96,314.8638 259.63,326.9238 " fill="none" id="Page.onInit()-&gt;#12" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="259.92,332.1138,263.4,322.9002,259.6348,327.1219,255.4131,323.3566,259.92,332.1138" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="54" x="190.4062" y="320.7368">isForward?</text><!--link #12 to Process controls--><path d="M272.52,343.5938 C279.9,343.5938 289.95,343.5938 300.58,343.5938 " fill="none" id="#12-&gt;Process controls" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="305.84,343.5938,296.84,339.5938,300.84,343.5938,296.84,347.5938,305.84,343.5938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="12" x="283.25" y="337.7988">no</text><!--link Process controls to #17--><path d="M358.5,360.2537 C358.5,370.9638 358.5,385.1238 358.5,395.9338 " fill="none" id="Process controls-&gt;#17" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="358.5,400.9438,362.5,391.9438,358.5,395.9438,354.5,391.9438,358.5,400.9438" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="106" x="232.2938" y="392.3989">continue processing?</text><!--link #17 to RENDERING--><path d="M353.8,420.6138 C344.67,433.2838 324.58,461.1638 314.91,474.5838 " fill="none" id="#17-&gt;RENDERING" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="311.86,478.8238,320.3593,473.8477,314.777,474.7628,313.8619,469.1805,311.86,478.8238" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="17" x="336.5" y="456.2988">yes</text><!--link #17 to REDIRECT_CHECK--><path d="M363.78,420.3837 C372.87,431.8538 390.5,457.3038 390.5,482.0938 C390.5,482.0938 390.5,482.0938 390.5,710.5938 C390.5,748.9538 343.11,762.6837 305.56,767.5438 " fill="none" id="#17-&gt;REDIRECT_CHECK" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="300.57,768.1438,309.9844,771.0366,305.534,767.5446,309.0259,763.0942,300.57,768.1438" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="12" x="391.5" y="596.2988">no</text><!--link #12 to RENDERING--><path d="M263.42,352.7838 C272.12,377.1938 297.8,449.2637 306.54,473.8038 " fill="none" id="#12-&gt;RENDERING" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="308.3,478.7338,309.0532,468.9137,306.6247,474.0228,301.5156,471.5943,308.3,478.7338" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="17" x="290.5" y="417.2988">yes</text><!--link RENDERING to #25--><path d="M309.5,487.3738 C309.5,495.9538 309.5,519.5238 309.5,535.7138 " fill="none" id="RENDERING-&gt;#25" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="309.5,540.8938,313.5,531.8938,309.5,535.8938,305.5,531.8938,309.5,540.8938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="40" x="259.75" y="530.4434">is Post?</text><!--link #25 to Page.onPost()--><path d="M303.18,559.1338 C289.22,570.2538 255.14,597.4238 231.91,615.9338 " fill="none" id="#25-&gt;Page.onPost()" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="228,619.0538,237.5333,616.5805,231.9127,615.9407,232.5524,610.3202,228,619.0538" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="17" x="269.5" y="596.2988">yes</text><!--link Page.onPost() to render--><path d="M219.78,652.2138 C227.55,662.9738 237.93,677.3438 246.27,688.8938 " fill="none" id="Page.onPost()-&gt;render" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="249.24,693.0038,247.2158,683.3652,246.3136,688.9496,240.7291,688.0474,249.24,693.0038" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link render to REDIRECT_CHECK--><path d="M260.5,726.2238 C260.5,737.5238 260.5,752.3538 260.5,761.5538 " fill="none" id="render-&gt;REDIRECT_CHECK" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="260.5,766.6938,264.5,757.6938,260.5,761.6938,256.5,757.6938,260.5,766.6938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link #25 to Page.onGet()--><path d="M310.39,564.2938 C311.46,576.6838 313.31,597.9038 314.69,613.7938 " fill="none" id="#25-&gt;Page.onGet()" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="315.14,618.9638,318.328,609.6451,314.6976,613.9834,310.3594,610.353,315.14,618.9638" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="12" x="314.5" y="596.2988">no</text><!--link Page.onGet() to render--><path d="M304.35,652.2138 C295.98,662.9738 284.8,677.3438 275.83,688.8938 " fill="none" id="Page.onGet()-&gt;render" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="272.63,693.0038,281.3164,688.3619,275.7027,689.0593,275.0052,683.4456,272.63,693.0038" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link #7 to REDIRECT_CHECK--><path d="M153.21,277.4438 C145.82,289.9138 131.5,317.3438 131.5,342.5938 C131.5,342.5938 131.5,342.5938 131.5,710.5938 C131.5,748.4438 177.85,762.2938 214.99,767.3238 " fill="none" id="#7-&gt;REDIRECT_CHECK" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="220.39,767.9938,211.9628,762.8964,215.4295,767.3666,210.9593,770.8332,220.39,767.9938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="25" x="132.5" y="518.2988">false</text><!--link REDIRECT_CHECK to #37--><path d="M260.5,775.3738 C260.5,782.1637 260.5,798.2138 260.5,810.6438 " fill="none" id="REDIRECT_CHECK-&gt;#37" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="260.5,815.7138,264.5,806.7138,260.5,810.7138,256.5,806.7138,260.5,815.7138" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="186.625" y="805.624">Do redirect?</text><!--link #37 to redirect request--><path d="M267.27,833.7238 C275.24,839.1737 288.96,848.5538 301.4,857.0638 " fill="none" id="#37-&gt;redirect request" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="305.56,859.9038,300.3764,851.5294,301.4286,857.0875,295.8704,858.1397,305.56,859.9038" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="17" x="287.66" y="844.1888">yes</text><!--link redirect request to BEFORE_DESTROY--><path d="M337.9,893.2438 C345.3,907.7838 352.94,929.6138 343.5,946.0938 C331.09,967.7638 303.39,979.8038 285.35,985.6038 " fill="none" id="redirect request-&gt;BEFORE_DESTROY" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="280.54,987.0838,290.3181,988.2621,285.3192,985.6143,287.967,980.6154,280.54,987.0838" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link #37 to #44--><path d="M254.67,834.7238 C237.67,851.1438 188.07,899.0638 167.07,919.3538 " fill="none" id="#37-&gt;#44" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="163.27,923.0238,172.5251,919.6559,166.8692,919.5531,166.9721,913.8972,163.27,923.0238" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="61" x="134.4816" y="904.4533">Do Forward?</text><!--reverse link Forward request to #44--><path d="M112.59,929.5938 C124.9,929.5938 136.77,929.5938 145.2,929.5938 " fill="none" id="Forward request&lt;-#44" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="107.3,929.5938,116.3,933.5938,112.3,929.5938,116.3,925.5938,107.3,929.5938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="17" x="117.75" y="923.7988">yes</text><!--link Forward request to BEFORE_DESTROY--><path d="M107.01,944.7738 C154.48,958.0938 222.62,977.2138 252.93,985.7238 " fill="none" id="Forward request-&gt;BEFORE_DESTROY" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="257.8,987.0938,250.2056,980.8227,252.9838,985.7504,248.0562,988.5286,257.8,987.0938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link #44 to Render page template--><path d="M169.8,929.5938 C177.24,929.5938 187.39,929.5938 198.37,929.5938 " fill="none" id="#44-&gt;Render page template" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="203.46,929.5938,194.46,925.5938,198.46,929.5938,194.46,933.5938,203.46,929.5938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="12" x="180.5" y="923.7988">no</text><!--link Render page template to BEFORE_DESTROY--><path d="M268.5,946.2238 C268.5,957.5238 268.5,972.3538 268.5,981.5538 " fill="none" id="Render page template-&gt;BEFORE_DESTROY" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="268.5,986.6938,272.5,977.6938,268.5,981.6938,264.5,977.6938,268.5,986.6938" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link BEFORE_DESTROY to Page.onDestroy()--><path d="M268.5,995.2938 C268.5,1001.9438 268.5,1017.7338 268.5,1030.9038 " fill="none" id="BEFORE_DESTROY-&gt;Page.onDestroy()" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="268.5,1035.9837,272.5,1026.9837,268.5,1030.9837,264.5,1026.9837,268.5,1035.9837" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link Page.onDestroy() to end--><path d="M268.5,1069.1138 C268.5,1079.9438 268.5,1094.2738 268.5,1104.8138 " fill="none" id="Page.onDestroy()-&gt;end" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="268.5,1109.9438,272.5,1100.9438,268.5,1104.9438,264.5,1100.9438,268.5,1109.9438" style="stroke: #AAAAAA; stroke-width: 1.0;"/><image height="20" width="80" x="349" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAUCAYAAAAa2LrXAAADRklEQVR4Xu2XvW4TQRCA8wh5A86ufCAhvwBSaoSEJToKdEUQUirn4hIkiwpRRdQUFk/gmuoewU+Af5IHyBuE/fZmLuO5H+FIEBR7pJFvd3bndr+dmT0fHR3k4WQ8Hh9PJpOTPM+LoFloJ37MQTrk4uJiFsDdGl35MQdpEaINYEFvJAoXQOTZj91bWSaD5KqfXm6SQbbppbe0w+8MWwA4BB7gSGUTjZO9T2UBVayTdAy4Bp0FnQdYKNAAGX/Pz88vme997o0sk+GxAPTQavrj9ZuXn99/OBN40wDv47e3775gu+qlK+97Vwk+s7y8oCol8v24/0okumqwWjWkN/NIYzZ4nTwbhv6boHPnemfhUPKyzvIb9T7lgcz4J7U5Rl6SjmqQulQASg3MiOCrZHACyNLndjuWhfAOfSc2VJ+xM4e2QCt0rBW5uABai8iwlhFrAbaMI0PGdqxcglufXvpZprbw/NyDx0frIe4ML+pg8ensjDRe4AMIYitsm5RGq3kC3vgq7DO2NoACJF5gPOsmBRwRqxrny/gF9VkyRWt3tHH4zDew4/zQf0pbwcvcG95ztxonmzL9apAEhLcVX7PTFzjVl7QBRN2lFO2mPec92sYmAOx3Zuy3UQEYxukzkNSmwjydg13Wm9BWaLRttJq5lc+8rMkrtdWk3ISH1wyQzxugsRjdANIOcBAjdN1/OrV29Uf5kPrpAS7YmKrtl83GC0zWEkEwxgr9Zm4RdKs+AwU4FqaxjbHLc9F0QJVQe2wUNGlMxQDFwCusDw+sHeg2QJ3fADCOU5ENAY36RUrFCPxTgBKBcW3GHtNSAVqbvIM0H7X5r0Q+X3yaltpPr82FgTPgxVpkfdiUJUo9MN++J8AVG9NNMU5swJyzSYCaqKuAK2hta0ozrgkgIhdkLVga5VcvfRI2sDTwftpPFff/t6DPzvdR7IH59q4AJSJW8v55bmqgwKEvHmzQjH586HqlHQ9B+/RSaANoamPmbZUQfRR5qVHf1/3BK7WxMD0pcYSy8K1UsKKfLX9LulKpyeYPuq2vSQDH3n1/p8hpcnIWmp76yo9/jCLRTrTCYOrtncJkQtfUDNIpnkLTCT9G0SDqvHkPcpAHld+wG+9DK5VvgAAAAABJRU5ErkJggg==" y="1140.0938"/><!--
+@startuml
+
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam package {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam title {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  fontSize 18
+}
+
+
+
+hide methods
+hide stereotypes
+
+right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
+
+
+title Servlet Container
+
+(*) - -> "ClickServlet.handleRequest()"
+- -> "new Page"
+
+if "Page.onSecurityCheck" then
+  ->[true] "Page.onInit()"
+
+  if "isForward?" then
+   ->[no] "Process controls"
+
+   if "continue processing?" then
+     - ->[yes] ===RENDERING===
+   else
+     - ->[no] ===REDIRECT_CHECK===
+   endif
+
+  else
+   - ->[yes] ===RENDERING===
+  endif
+
+  if "is Post?" then
+    - ->[yes] "Page.onPost()"
+    - -> "Page.onRender()" as render
+    - -> ===REDIRECT_CHECK===
+  else
+    - ->[no] "Page.onGet()"
+    - -> render
+  endif
+
+else
+  - ->[false] ===REDIRECT_CHECK===
+endif
+
+if "Do redirect?" then
+ ->[yes] "redirect request"
+ - -> ==BEFORE_DESTROY===
+else
+ if "Do Forward?" then
+  -left->[yes] "Forward request"
+  - -> ==BEFORE_DESTROY===
+ else
+  -right->[no] "Render page template"
+  - -> ==BEFORE_DESTROY===
+ endif
+endif
+
+- -> "Page.onDestroy()"
+- ->(*)
+
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

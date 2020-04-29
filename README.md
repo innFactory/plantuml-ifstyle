@@ -19,14 +19,23 @@ You can switch to light theme by define LIGHT instead of DARK. If you don't need
 Examples are in the example folder.
 
 ## Grouped Components
-<img src="examples/groupedcomponent.svg" width="400px" alt="Grouped Components" />
+<img src="examples/groupedcomponent.svg" width="450px" alt="Grouped Components" />
 
 ## Datebase
-<img src="examples/database.svg" width="400px" alt="database" />
+<img src="examples/database.svg" width="450px" alt="database" />
 
 ## Activity
-<img src="examples/activity.svg" width="300px" alt="activity" />
+### Simple
+<img src="examples/activity.svg" width="450px" alt="activity" />
 
+### Compley parallel
+<img src="examples/activity-par.svg" width="450px" alt="activity2" />
+
+## Mindmap
+<img src="examples/mindmap.svg" width="450px" alt="mindmap" />
+
+## Deployment Items
+<img src="examples/deployment-items.svg" width="450px" alt="deployment" />
 
 # Credits
 [innFactory.de](https://innfactory.de)
