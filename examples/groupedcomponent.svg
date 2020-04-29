@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="555px" preserveAspectRatio="none" style="width:439px;height:555px;background:#222222;" version="1.1" viewBox="0 0 439 555" width="439px" zoomAndPan="magnify"><defs><filter height="300%" id="f1cnqdzpa50jed" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster Some Group--><polygon fill="#282A2B" filter="url(#f1cnqdzpa50jed)" points="22,24,89,24,96,42.8906,366,42.8906,366,104,22,104,22,24" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="22" x2="96" y1="42.8906" y2="42.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61" x="26" y="36.2051">Some Group</text><!--cluster Other Groups--><polygon fill="#282A2B" filter="url(#f1cnqdzpa50jed)" points="41,138,51,128,244,128,244,203,234,213,41,213,41,138" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="234" x2="243" y1="138" y2="129"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="41" x2="234" y1="138" y2="138"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="234" x2="234" y1="138" y2="213"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="66" x="105.5" y="151.2051">Other Groups</text><path d="M277.0269,157.2826 C279.3662,152.202 283.7241,150.4368 287.9878,155.1229 C290.3351,148.4645 295.0218,147.9532 300.1416,151.9647 C302.145,147.5833 305.9301,146.4397 309.3632,150.3807 C311.0203,143.3256 316.4369,142.6598 321.3679,146.9017 C325.1056,143.1446 330.1044,144.5134 331.5273,149.57 C335.5429,144.7082 341.5107,144.666 343.8715,151.3408 C349.2644,147.0526 352.4101,149.2606 354.3642,154.9552 C358.9739,149.6548 362.7047,151.5149 365.2967,157.0003 C371.4918,158.3109 373.9355,163.6057 369.4237,168.6948 C377.6155,171.3973 377.2284,176.0776 372.607,181.8747 C377.492,186.9509 376.7803,192.8501 369.0315,194.287 C372.628,199.4987 372.1671,204.2397 364.9375,205.4977 C362.6556,211.1547 359.0155,211.1415 354.99,207.3294 C352.3795,214.027 346.9241,214.6339 342.858,208.7308 C339.6908,214.3815 334.5432,214.7366 331.1025,209.0135 C327.9153,213.7354 323.8713,214.7145 320.4526,209.2557 C317.4509,213.1433 313.166,212.9362 311.1493,208.1938 C306.9934,213.6645 301.4748,212.4563 298.7057,206.6619 C295.8032,211.1957 290.2924,211.009 287.6326,206.3689 C283.784,210.2645 280.0814,210.7475 277.2033,205.2871 C271.5654,201.8511 271.293,197.2944 276.4433,193.1811 C271.0308,190.4539 270.4604,186.3673 275.3353,182.5664 C269.6564,178.7185 270.6432,173.2188 276.3412,170.3042 C271.1568,166.578 270.1256,160.3724 277.0269,157.2826 " fill="#282A2B" style="stroke: #4B4C4D; stroke-width: 1.5;"/><!--cluster Postgres--><path d="M246,247 C246,237 320.5,237 320.5,237 C320.5,237 395,237 395,247 L395,489 C395,499 320.5,499 320.5,499 C320.5,499 246,499 246,489 L246,247 " fill="#282A2B" filter="url(#f1cnqdzpa50jed)" style="stroke: #4B4C4D; stroke-width: 1.5;"/><path d="M246,247 C246,257 320.5,257 320.5,257 C320.5,257 395,257 395,247 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="298" y="269.2051">Postgres</text><!--cluster This is my folder--><polygon fill="#282A2B" filter="url(#f1cnqdzpa50jed)" points="270,291,361,291,368,309.8906,371,309.8906,371,371,270,371,270,291" style="stroke: #4B4C4D; stroke-width: 1.5;"/><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="270" x2="368" y1="309.8906" y2="309.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="85" x="274" y="303.2051">This is my folder</text><!--cluster Foo--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="80" style="stroke: #4B4C4D; stroke-width: 1.5;" width="94" x="273" y="395"/><path d="M301,396 L301,400.8906 L291,410.8906 L273,410.8906 " fill="none" style="stroke: #4B4C4D; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="18" x="276" y="406.2051">Foo</text><!--entity HTTPS--><ellipse cx="186" cy="71.5" fill="#333333" filter="url(#f1cnqdzpa50jed)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="168" y="98.7051">HTTPS</text><!--entity First Component--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="103" x="38.5" y="55"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="33.5" y="60"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="33.5" y="77.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83" x="48.5" y="75.2051">First Component</text><!--entity Another Component--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="119" x="230.5" y="55"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="225.5" y="60"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="225.5" y="77.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="99" x="240.5" y="75.2051">Another Component</text><!--entity FTP--><ellipse cx="66" cy="180.5" fill="#333333" filter="url(#f1cnqdzpa50jed)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="20" x="56" y="207.7051">FTP</text><!--entity Second Component--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="117" x="110.5" y="164"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="105.5" y="169"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="105.5" y="186.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="97" x="120.5" y="184.2051">Second Component</text><!--entity Example 1--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="71" x="284.5" y="164"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="279.5" y="169"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="279.5" y="186.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="51" x="294.5" y="184.2051">Example 1</text><!--entity Folder 3--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="60" x="290" y="322"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="285" y="327"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="285" y="344.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="40" x="300" y="342.2051">Folder 3</text><!--entity Frame 4--><rect fill="#282A2B" filter="url(#f1cnqdzpa50jed)" height="32.8906" style="stroke: #4B4C4D; stroke-width: 1.5;" width="61" x="289.5" y="426"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="284.5" y="431"/><rect fill="#282A2B" height="5" style="stroke: #4B4C4D; stroke-width: 1.5;" width="10" x="284.5" y="448.8906"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="41" x="299.5" y="446.2051">Frame 4</text><!--link HTTPS to First Component--><path d="M176.67,71.5 C165.03,71.5 153.39,71.5 141.75,71.5 " fill="none" id="HTTPS-First Component" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link FTP to Second Component--><path d="M75.25,180.5 C86.97,180.5 98.69,180.5 110.41,180.5 " fill="none" id="FTP-Second Component" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link First Component to FTP--><path d="M86.46,88.29 C81.72,109.44 73.38,146.58 68.96,166.31 " fill="none" id="First Component-&gt;FTP" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="67.82,171.39,73.682,163.4757,68.9077,166.5097,65.8736,161.7354,67.82,171.39" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link Another Component to Example 1--><path d="M294.43,88.29 C299.69,107.05 308.47,138.38 314.25,159 " fill="none" id="Another Component-&gt;Example 1" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="315.65,163.99,317.0848,154.2462,314.3066,159.1738,309.379,156.3956,315.65,163.99" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link Example 1 to Folder 3--><path d="M320,197.03 C320,225.15 320,284.53 320,316.34 " fill="none" id="Example 1-&gt;Folder 3" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="320,321.57,324,312.57,320,316.57,316,312.57,320,321.57" style="stroke: #AAAAAA; stroke-width: 1.0;"/><!--link Folder 3 to Frame 4--><path d="M320,355.44 C320,372.95 320,401.16 320,420.48 " fill="none" id="Folder 3-&gt;Frame 4" style="stroke: #AAAAAA; stroke-width: 1.0;"/><polygon fill="#AAAAAA" points="320,425.67,324,416.67,320,420.67,316,416.67,320,425.67" style="stroke: #AAAAAA; stroke-width: 1.0;"/><image height="20" width="80" x="349" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAUCAYAAAAa2LrXAAADRklEQVR4Xu2XvW4TQRCA8wh5A86ufCAhvwBSaoSEJToKdEUQUirn4hIkiwpRRdQUFk/gmuoewU+Af5IHyBuE/fZmLuO5H+FIEBR7pJFvd3bndr+dmT0fHR3k4WQ8Hh9PJpOTPM+LoFloJ37MQTrk4uJiFsDdGl35MQdpEaINYEFvJAoXQOTZj91bWSaD5KqfXm6SQbbppbe0w+8MWwA4BB7gSGUTjZO9T2UBVayTdAy4Bp0FnQdYKNAAGX/Pz88vme997o0sk+GxAPTQavrj9ZuXn99/OBN40wDv47e3775gu+qlK+97Vwk+s7y8oCol8v24/0okumqwWjWkN/NIYzZ4nTwbhv6boHPnemfhUPKyzvIb9T7lgcz4J7U5Rl6SjmqQulQASg3MiOCrZHACyNLndjuWhfAOfSc2VJ+xM4e2QCt0rBW5uABai8iwlhFrAbaMI0PGdqxcglufXvpZprbw/NyDx0frIe4ML+pg8ensjDRe4AMIYitsm5RGq3kC3vgq7DO2NoACJF5gPOsmBRwRqxrny/gF9VkyRWt3tHH4zDew4/zQf0pbwcvcG95ztxonmzL9apAEhLcVX7PTFzjVl7QBRN2lFO2mPec92sYmAOx3Zuy3UQEYxukzkNSmwjydg13Wm9BWaLRttJq5lc+8rMkrtdWk3ISH1wyQzxugsRjdANIOcBAjdN1/OrV29Uf5kPrpAS7YmKrtl83GC0zWEkEwxgr9Zm4RdKs+AwU4FqaxjbHLc9F0QJVQe2wUNGlMxQDFwCusDw+sHeg2QJ3fADCOU5ENAY36RUrFCPxTgBKBcW3GHtNSAVqbvIM0H7X5r0Q+X3yaltpPr82FgTPgxVpkfdiUJUo9MN++J8AVG9NNMU5swJyzSYCaqKuAK2hta0ozrgkgIhdkLVga5VcvfRI2sDTwftpPFff/t6DPzvdR7IH59q4AJSJW8v55bmqgwKEvHmzQjH586HqlHQ9B+/RSaANoamPmbZUQfRR5qVHf1/3BK7WxMD0pcYSy8K1UsKKfLX9LulKpyeYPuq2vSQDH3n1/p8hpcnIWmp76yo9/jCLRTrTCYOrtncJkQtfUDNIpnkLTCT9G0SDqvHkPcpAHld+wG+9DK5VvgAAAAABJRU5ErkJggg==" y="525"/><!--
+@startuml
+
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam package {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+hide methods
+hide stereotypes
+
+right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
+
+
+package "Some Group" {
+  HTTPS - [First Component]
+  [Another Component]
+}
+
+node "Other Groups" {
+  FTP - [Second Component]
+  [First Component] - -> FTP
+}
+
+cloud {
+  [Example 1]
+}
+
+
+database "Postgres" {
+  folder "This is my folder" {
+    [Folder 3]
+  }
+  frame "Foo" {
+    [Frame 4]
+  }
+}
+
+
+[Another Component] - -> [Example 1]
+[Example 1] - -> [Folder 3]
+[Folder 3] - -> [Frame 4]
+
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

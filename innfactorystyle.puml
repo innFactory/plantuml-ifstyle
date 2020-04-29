@@ -215,6 +215,18 @@ skinparam cloud {
   arrow_style()
 }
 
+skinparam node {
+  basic_style()
+  font_style()
+  arrow_style()
+}
+
+skinparam package {
+  basic_style()
+  font_style()
+  arrow_style()
+}
+
 skinparam rectangle {
   basic_style()
   font_style()

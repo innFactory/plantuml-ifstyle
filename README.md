@@ -2,7 +2,7 @@
 innFactory PlantUML Styling for awesome uml diagrams.
 
 # Usage
-Install plantuml and the vscode plugin.
+Install [plantuml](https://plantuml.com/) and the vscode plugin. 
 
 Add this to the top of your .puml file after @startuml:
 
@@ -17,6 +17,9 @@ You can switch to light theme by define LIGHT instead of DARK. If you don't need
 
 # Examples
 Examples are in the example folder.
+
+## Grouped Components
+<img src="examples/groupedcomponent.svg" width="400px" alt="Grouped Components" />
 
 ## Datebase
 <img src="examples/database.svg" width="400px" alt="database" />
