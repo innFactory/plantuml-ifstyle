@@ -17,8 +17,8 @@ You can switch to light theme by define LIGHT instead of DARK. If you don't need
 
 # Examples
 Examples are in the example folder.
-<img src="exapmles/database.svg" width="200px" alt="database" />
-<img src="exapmles/activity.svg" width="400px" alt="activity" />
+<img src="examples/database.svg" width="200px" alt="database" />
+<img src="examples/activity.svg" width="400px" alt="activity" />
 
 
 # Credits
