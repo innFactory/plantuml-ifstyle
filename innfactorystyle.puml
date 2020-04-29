@@ -1,5 +1,8 @@
 @startuml
 
+' (c) innFactory GmbH
+' www.innFactory.de
+
 !ifndef FONTNAME
 !define FONTNAME "Roboto"
 !endif
