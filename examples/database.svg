@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="378px" preserveAspectRatio="none" style="width:234px;height:378px;background:#222222;" version="1.1" viewBox="0 0 234 378" width="234px" zoomAndPan="magnify"><defs><filter height="300%" id="f1gztzrt35omw4" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--class tableA--><rect fill="#282A2B" filter="url(#f1gztzrt35omw4)" height="98.7754" id="tableA" style="stroke: #4B4C4D; stroke-width: 1.5;" width="143" x="6" y="8"/><ellipse cx="58" cy="21" fill="#333333" rx="8" ry="8" style="stroke: #4B4C4D; stroke-width: 1.0;"/><path d="M61.085,18.9849 L58.6895,18.9849 L58.6895,25.5 L57.0781,25.5 L57.0781,18.9849 L54.7148,18.9849 L54.7148,17.6797 L61.085,17.6797 Z "/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="32" x="74" y="24.7598">tableA</text><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="7" x2="148" y1="34" y2="34"/><path d="M18.0417,40.8717 C16.7767,40.8717 15.75,41.8984 15.75,43.1634 C15.75,43.3101 15.7802,43.4357 15.8078,43.5649 L13,46.3727 L13,48.206 L15.75,48.206 L15.75,46.3727 L17.5833,46.3727 L17.5833,45.456 L17.6411,45.3982 C17.7694,45.4257 17.895,45.456 18.0426,45.456 C19.3076,45.456 20.3342,44.4293 20.3342,43.1643 C20.3342,41.8993 19.3076,40.8727 18.0426,40.8727 M18.5009,41.7893 C19.0051,41.7893 19.4176,42.2018 19.4176,42.706 C19.4176,43.2102 19.0051,43.6227 18.5009,43.6227 C17.9968,43.6227 17.5843,43.2102 17.5843,42.706 C17.5843,42.2018 17.9968,41.7893 18.5009,41.7893 " fill="#E5E5E5" style="stroke: ; stroke-width: 0.0; stroke-dasharray: ;"/><text fill="#E5E5E5" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="11" x="21.3333" y="48.6348">id</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="3" x="32.3333" y="48.6348">:</text><text fill="#BA55D3" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="24" x="38.3333" y="48.6348">uuid</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="12" y="61.5898">textfield:</text><text fill="#CD853F" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="73" x="62" y="61.5898">varchar (500)</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="8" x="135" y="61.5898">[]</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="46" x="12" y="74.5449">settings:</text><text fill="#BA55D3" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="23" x="61" y="74.5449">json</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="43" x="12" y="87.5">created:</text><text fill="#87CEFA" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="58" y="87.5">timestamp</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="12" y="100.4551">updated:</text><text fill="#87CEFA" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="62" y="100.4551">timestamp</text><!--class tableB--><rect fill="#282A2B" filter="url(#f1gztzrt35omw4)" height="124.6855" id="tableB" style="stroke: #4B4C4D; stroke-width: 1.5;" width="118" x="18.5" y="243"/><ellipse cx="58" cy="256" fill="#333333" rx="8" ry="8" style="stroke: #4B4C4D; stroke-width: 1.0;"/><path d="M61.085,253.9849 L58.6895,253.9849 L58.6895,260.5 L57.0781,260.5 L57.0781,253.9849 L54.7148,253.9849 L54.7148,252.6797 L61.085,252.6797 Z "/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="32" x="74" y="259.7598">tableB</text><line style="stroke: #4B4C4D; stroke-width: 1.5;" x1="19.5" x2="135.5" y1="269" y2="269"/><path d="M30.5417,275.8717 C29.2767,275.8717 28.25,276.8984 28.25,278.1634 C28.25,278.3101 28.2803,278.4357 28.3078,278.5649 L25.5,281.3727 L25.5,283.206 L28.25,283.206 L28.25,281.3727 L30.0833,281.3727 L30.0833,280.456 L30.1411,280.3982 C30.2694,280.4257 30.395,280.456 30.5426,280.456 C31.8076,280.456 32.8343,279.4293 32.8343,278.1643 C32.8343,276.8993 31.8076,275.8727 30.5426,275.8727 M31.0009,276.7893 C31.5051,276.7893 31.9176,277.2018 31.9176,277.706 C31.9176,278.2102 31.5051,278.6227 31.0009,278.6227 C30.4968,278.6227 30.0843,278.2102 30.0843,277.706 C30.0843,277.2018 30.4968,276.7893 31.0009,276.7893 " fill="#E5E5E5" style="stroke: ; stroke-width: 0.0; stroke-dasharray: ;"/><text fill="#E5E5E5" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="11" x="33.8333" y="283.6348">id</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="3" x="44.8333" y="283.6348">:</text><text fill="#BA55D3" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="24" x="50.8333" y="283.6348">uuid</text><path d="M30.8854,288.8552 C30.7167,288.8644 30.5609,288.8827 30.3987,288.9414 C30.1512,289.0285 29.9119,289.1706 29.7112,289.3713 A0.4583,0.4583 0 1 0 30.3418,290.002 C30.4344,289.9094 30.5664,289.8434 30.6856,289.8012 C31.0083,289.6857 31.4006,289.7426 31.66,290.002 C32.0221,290.3586 32.0267,290.9526 31.66,291.3202 L30.285,292.6952 C29.8872,293.093 29.5526,293.1379 29.3106,293.1251 C29.0686,293.1113 28.9384,293.0105 28.9384,293.0105 A0.462,0.462 0 1 0 28.4801,293.8126 C28.7918,294.0161 28.7918,294.0161 29.2538,294.0417 C29.7158,294.0674 30.351,293.8905 30.9157,293.3258 L32.2907,291.9508 C33.0057,291.2358 33.0103,290.0799 32.2907,289.3722 C32.0349,289.1165 31.7352,288.9579 31.4024,288.8855 C31.2365,288.8497 31.055,288.8479 30.8863,288.8571 M29.053,290.9773 C28.5938,290.9599 27.9658,291.1194 27.4204,291.6648 L26.0454,293.0398 C25.3304,293.7548 25.3258,294.9107 26.0454,295.6184 C26.556,296.129 27.2875,296.2802 27.9365,296.0483 C28.184,295.9612 28.4233,295.8192 28.624,295.6184 A0.4583,0.4583 0 1 0 27.9933,294.9877 C27.9008,295.0803 27.7688,295.1463 27.6496,295.1885 C27.3269,295.304 26.9346,295.2472 26.6752,294.9877 C26.3131,294.6312 26.3085,294.0372 26.6752,293.6696 L28.0502,292.2946 C28.4214,291.9233 28.7395,291.8839 28.9953,291.8931 C29.251,291.9032 29.4252,291.9792 29.4252,291.9792 A0.4583,0.4583 0 1 0 29.8267,291.1772 C29.5123,290.9947 29.5123,290.9947 29.053,290.9764 " fill="#E5E5E5" style="stroke: ; stroke-width: 0.0; stroke-dasharray: ;"/><text fill="#E5E5E5" font-family="sans-serif" font-size="11" font-style="italic" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="23" x="33.8333" y="296.5898">fkid</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="3" x="56.8333" y="296.5898">:</text><text fill="#BA55D3" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="24" x="62.8333" y="296.5898">uuid</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="37" x="24.5" y="309.5449">metric:</text><text fill="#FFD700" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="38" x="64.5" y="309.5449">integer</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="24.5" y="322.5">public:</text><text fill="#FFD700" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="43" x="63.5" y="322.5">boolean</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="24.5" y="335.4551">position:</text><text fill="#FF6347" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="51" x="74.5" y="335.4551">geometry</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="43" x="24.5" y="348.4102">created:</text><text fill="#87CEFA" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="70.5" y="348.4102">timestamp</text><text fill="#E5E5E5" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="24.5" y="361.3652">updated:</text><text fill="#87CEFA" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="74.5" y="361.3652">timestamp</text><!--link tableA to tableB--><path d="M77.5,107.1 C77.5,143.6 77.5,194.08 77.5,234.87 " fill="none" id="tableA-&gt;tableB" style="stroke: #AAAAAA; stroke-width: 1.0;"/><line style="stroke: #AAAAAA; stroke-width: 1.0;" x1="77.5" x2="85.5" y1="234.89" y2="242.89"/><line style="stroke: #AAAAAA; stroke-width: 1.0;" x1="77.5" x2="69.5" y1="234.89" y2="242.89"/><line style="stroke: #AAAAAA; stroke-width: 1.0;" x1="77.5" x2="77.5" y1="234.89" y2="242.89"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="144" x="78.5" y="179.2051">something about the relation</text><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="6" x="71.0969" y="124.8513">1</text><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="6" x="71.1156" y="232.3816">1</text><!--
+@startuml
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+hide methods
+hide stereotypes
+
+
+entity tableA as "tableA" << (T,333) >> {
+<&key><b>id</b>: <color:MediumOrchid>uuid</color>
+textfield: <color:Peru>varchar (500)</color>[]
+settings: <color:MediumOrchid>json</color>
+created: <color:LightSkyBlue>timestamp</color>
+updated: <color:LightSkyBlue>timestamp</color>
+}
+
+entity tableB as "tableB" << (T,333) >> {
+<&key><b>id</b>: <color:MediumOrchid>uuid</color>
+<&link-intact><b><i>fkid</i></b>: <color:MediumOrchid>uuid</color>
+metric: <color:Gold>integer</color>
+public: <color:Gold>boolean</color>
+position: <color:Tomato>geometry</color>
+created: <color:LightSkyBlue>timestamp</color>
+updated: <color:LightSkyBlue>timestamp</color>
+}
+
+
+tableA "1" - - -{ "1" tableB : "something about the relation"
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="213px" preserveAspectRatio="none" style="width:96px;height:213px;background:#222222;" version="1.1" viewBox="0 0 96 213" width="96px" zoomAndPan="magnify"><defs><filter height="300%" id="f10k7ajizrxgg6" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke: #AAAAAA; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="23" x2="23" y1="82.8906" y2="129.7813"/><line style="stroke: #AAAAAA; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="70.5" x2="70.5" y1="82.8906" y2="129.7813"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="19" x="10.5" y="80.2051">Bob</text><ellipse cx="23" cy="13" fill="#333333" filter="url(#f10k7ajizrxgg6)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><path d="M23,21 L23,48 M10,29 L36,29 M23,48 L10,63 M23,48 L36,63 " fill="none" filter="url(#f10k7ajizrxgg6)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="19" x="10.5" y="138.9863">Bob</text><ellipse cx="23" cy="151.6719" fill="#333333" filter="url(#f10k7ajizrxgg6)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><path d="M23,159.6719 L23,186.6719 M10,167.6719 L36,167.6719 M23,186.6719 L10,201.6719 M23,186.6719 L36,201.6719 " fill="none" filter="url(#f10k7ajizrxgg6)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="25" x="55.5" y="80.2051">Alice</text><ellipse cx="71" cy="13" fill="#333333" filter="url(#f10k7ajizrxgg6)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><path d="M71,21 L71,48 M58,29 L84,29 M71,48 L58,63 M71,48 L84,63 " fill="none" filter="url(#f10k7ajizrxgg6)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><text fill="#FFFFFF" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="25" x="55.5" y="138.9863">Alice</text><ellipse cx="71" cy="151.6719" fill="#333333" filter="url(#f10k7ajizrxgg6)" rx="8" ry="8" style="stroke: #AAAAAA; stroke-width: 2.0;"/><path d="M71,159.6719 L71,186.6719 M58,167.6719 L84,167.6719 M71,186.6719 L58,201.6719 M71,186.6719 L84,201.6719 " fill="none" filter="url(#f10k7ajizrxgg6)" style="stroke: #AAAAAA; stroke-width: 2.0;"/><polygon fill="#AAAAAA" points="34,107.7813,24,111.7813,34,115.7813,30,111.7813" style="stroke: #AAAAAA; stroke-width: 1.0;"/><line style="stroke: #AAAAAA; stroke-width: 1.0;" x1="28" x2="70" y1="111.7813" y2="111.7813"/><text fill="#ABABAB" font-family="Roboto" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="24" x="40" y="107.0957">hello</text><!--
+@startuml
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+hide methods
+hide stereotypes
+
+actor Bob
+actor Alice
+Alice -> Bob : hello
+@enduml
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

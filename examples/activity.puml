@@ -1,0 +1,8 @@
+@startuml
+!define DARK
+!define COLOREDTYPES
+!include ../innfactorystyle.puml
+actor Bob
+actor Alice
+Alice -> Bob : hello
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+!define DARK
+!define COLOREDTYPES
+!include ../innfactorystyle.puml
+
+Table(tableA, "tableA") {
+primary_key(id): uuid
+textfield: varchar(500)[]
+settings: json
+created: timestamp
+updated: timestamp
+}
+
+Table(tableB, "tableB") {
+primary_key(id): uuid
+foreign_key(fkid): uuid
+metric: integer
+public: boolean
+position: geometry
+created: timestamp
+updated: timestamp
+}
+
+
+' relationships
+tableA "1" ---{ "1" tableB : "something about the relation"
+@enduml
