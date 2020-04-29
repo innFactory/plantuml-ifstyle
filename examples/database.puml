@@ -1,6 +1,7 @@
 @startuml
 !define DARK
 !define COLOREDTYPES
+!define WATERMARK
 !include ../innfactorystyle.puml
 
 Table(tableA, "tableA") {

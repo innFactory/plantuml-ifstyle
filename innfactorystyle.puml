@@ -262,7 +262,7 @@ hide methods
 hide stereotypes
 
 !ifdef WATERMARK
-right footer <img:https://innfactory.de/wp-content/uploads/2018/03/innFactory_web_2x.png>
+right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark60.png>
 !endif
 
 @enduml
