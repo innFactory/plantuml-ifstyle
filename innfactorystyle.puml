@@ -261,4 +261,8 @@ skinparam storage {
 hide methods
 hide stereotypes
 
+!ifdef WATERMARK
+right footer <img:https://innfactory.de/wp-content/uploads/2018/03/innFactory_web_2x.png>
+!endif
+
 @enduml
