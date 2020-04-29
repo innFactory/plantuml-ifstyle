@@ -16,7 +16,7 @@ Add this to the top of your .puml file after @startuml:
 You can switch to light theme by define LIGHT instead of DARK. If you don't need the colored typed like in the database diagram just remove COLOREDTYPES definition. If you want to remove the watermark just remove the WATERMARK definition. The default font is "Roboto". You have to install it first.
 
 # Examples
-Examples are in the example folder.
+Example Code under /examples.
 
 ## Grouped Components
 <img src="examples/groupedcomponent.svg" width="450px" alt="Grouped Components" />
@@ -36,6 +36,9 @@ Examples are in the example folder.
 
 ## Deployment Items
 <img src="examples/deployment-items.svg" width="450px" alt="deployment" />
+
+## WBS
+<img src="examples/bws.svg" width="450px" alt="wbs" />
 
 # Credits
 [innFactory.de](https://innfactory.de)

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="222px" preserveAspectRatio="none" style="width:980px;height:222px;background:#222222;" version="1.1" viewBox="0 0 980 222" width="980px" zoomAndPan="magnify"><defs><filter height="300%" id="f1ooyfvvx7fbcd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="191" x="384" y="10"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="171" x="394" y="30.6348">Business Process Modelling WBS</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="479.5" x2="479.5" y1="42.9551" y2="62.9551"/><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="70" x2="70" y1="62.9551" y2="82.9551"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="10" y="82.9551"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="20" y="103.5898">Launch the project</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="70" x2="80" y1="147.3877" y2="147.3877"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="189" x="80" y="130.9102"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="169" x="90" y="151.5449">Complete Stakeholder Research</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="70" x2="80" y1="195.3428" y2="195.3428"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="160" x="80" y="178.8652"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="140" x="90" y="199.5">Initial Implementation Plan</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="70" x2="70" y1="115.9102" y2="195.3428"/><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="505" x2="505" y1="62.9551" y2="82.9551"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="92" x="459" y="82.9551"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72" x="469" y="103.5898">Design phase</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="495" x2="505" y1="147.3877" y2="147.3877"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="206" x="289" y="130.9102"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="186" x="299" y="151.5449">Measure AsIs performance metrics</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="495" x2="505" y1="195.3428" y2="195.3428"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="122" x="373" y="178.8652"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="102" x="383" y="199.5">Identify Quick Wins</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="505" x2="637" y1="147.3877" y2="147.3877"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="210" x="637" y="130.9102"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="190" x="647" y="151.5449">Model of AsIs Processes Completed</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="732" x2="742" y1="195.3428" y2="195.3428"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="217" x="515" y="178.8652"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="197" x="525" y="199.5">Model of AsIs Processes Completed1</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="742" x2="752" y1="195.3428" y2="195.3428"/><rect fill="#282A2B" filter="url(#f1ooyfvvx7fbcd)" height="32.9551" style="stroke: #A80036; stroke-width: 1.5;" width="217" x="752" y="178.8652"/><text fill="#FFFFFF" font-family="&quot;Roboto&quot;" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="197" x="762" y="199.5">Model of AsIs Processes Completed2</text><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="742" x2="742" y1="163.8652" y2="195.3428"/><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="505" x2="505" y1="115.9102" y2="195.3428"/><line style="stroke: #AAAAAA; stroke-width: 1.5;" x1="70" x2="505" y1="62.9551" y2="62.9551"/><!--
+@startwbs
+
+
+
+
+skinparam stereotypeCBackgroundColor 333
+
+
+skinparam backgroundColor 222
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName "Roboto"
+}
+
+skinparam class {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  attributeFontColor e5e5e5
+  attributeFontSize 11
+  attributeIconSize 11
+
+}
+
+
+skinparam actor {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 333333
+  borderColor 767676
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  BoxPadding 30
+}
+
+skinparam queue {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+
+  lifeLineBorderColor aaa
+  lifeLineBackgroundColor ababab
+}
+
+skinparam boundary {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+  startColor 333
+  endColor aaa
+}
+
+
+skinparam object {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 333
+  borderColor aaa
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam node {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam package {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+    arrowColor aaa
+  arrowFontName "Roboto"
+  arrowFontColor ababab
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam agent {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam artifact {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam card {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam file {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam folder {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam frame {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam stack {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+}
+
+skinparam title {
+    backgroundColor 282a2b
+  borderColor 4b4c4d
+    fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  fontSize 18
+}
+
+
+
+hide methods
+hide stereotypes
+
+
+<style>
+mindmapDiagram {
+  node {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+  rootNode {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+  leafNode {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+}
+wbsDiagram {
+  node {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+  arrow {
+	    backgroundColor 282a2b
+  borderColor 4b4c4d
+      fontColor fff
+  fontName "Roboto"
+  fontSize 11
+  stereotypeFontColor e5e5e5
+  stereotypeFontSize 11
+  }
+}
+</style>
+
+
+* Business Process Modelling WBS
+** Launch the project
+*** Complete Stakeholder Research
+*** Initial Implementation Plan
+** Design phase
+*** Model of AsIs Processes Completed
+****< Model of AsIs Processes Completed1
+****> Model of AsIs Processes Completed2
+***< Measure AsIs performance metrics
+***< Identify Quick Wins
+
+@endwbs
+
+PlantUML version 1.2019.09(Mon Aug 26 18:19:51 CEST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 11.0.6+8-LTS
+Operating System: Mac OS X
+OS Version: 10.15.4
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

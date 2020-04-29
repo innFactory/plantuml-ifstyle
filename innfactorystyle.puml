@@ -97,6 +97,17 @@ skinparam class {
 
 }
 
+skinparam object {
+  basic_style()
+  font_style()
+  arrow_style()
+
+  attributeFontColor SECONDARY
+  attributeFontSize FONTSIZE
+  attributeIconSize FONTSIZE
+
+}
+
 ' Sequence diagrams
 
 skinparam actor {
@@ -322,6 +333,8 @@ hide stereotypes
 right footer <img:https://raw.githubusercontent.com/innFactory/plantuml-ifstyle/master/img/watermark80.png>
 !endif
 
+!ifdef NOSTYLE
+!else
 <style>
 mindmapDiagram {
   node {
@@ -337,6 +350,17 @@ mindmapDiagram {
     font_style()
   }
 }
+wbsDiagram {
+  node {
+	  basic_style()
+    font_style()
+  }
+  arrow {
+	  basic_style()
+    font_style()
+  }
+}
 </style>
+!endif
 
 @enduml
