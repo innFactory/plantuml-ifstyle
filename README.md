@@ -38,7 +38,7 @@ Example Code under /examples.
 <img src="examples/deployment-items.svg" width="450px" alt="deployment" />
 
 ## WBS
-<img src="examples/bws.svg" width="450px" alt="wbs" />
+<img src="examples/wbs.svg" width="450px" alt="wbs" />
 
 # Credits
 [innFactory.de](https://innfactory.de)
