@@ -28,7 +28,7 @@ Example Code under /examples.
 ### Simple
 <img src="examples/activity.svg" width="450px" alt="activity" />
 
-### Compley parallel
+### Complex parallel
 <img src="examples/activity-par.svg" width="450px" alt="activity2" />
 
 ## Mindmap
