@@ -21,7 +21,7 @@ Example Code under /examples.
 ## Grouped Components
 <img src="examples/groupedcomponent.svg" width="450px" alt="Grouped Components" />
 
-## Datebase
+## Database
 <img src="examples/database.svg" width="450px" alt="database" />
 
 ## Activity
